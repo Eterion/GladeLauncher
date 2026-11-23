@@ -1,0 +1,16 @@
+# Local plans, briefs, research, and temporary working files.
+.local/
+
+# Android tooling and machine-specific configuration.
+.gradle/
+.kotlin/
+**/build/
+local.properties
+.idea/
+*.iml
+
+# Signing material and local environment files.
+*.jks
+*.keystore
+.env
+.env.*

@@ -1,0 +1,17 @@
+{
+  "description": "GladeLauncher turn-end verification; no per-edit builds.",
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "pwsh -NoProfile -Command \"& (Join-Path (git rev-parse --show-toplevel) '.codex/hooks/stop.ps1')\"",
+            "timeout": 600,
+            "statusMessage": "Checking GladeLauncher"
+          }
+        ]
+      }
+    ]
+  }
+}

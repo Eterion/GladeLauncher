@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glade</string>
+    <string name="close_drawer">Close app drawer</string>
+    <string name="no_apps">No apps found</string>
+    <string name="loading_apps">Loading apps…</string>
+    <string name="apps_unavailable">Couldn’t load apps. Reopen Glade to try again.</string>
+    <string name="open_apps">Open app drawer</string>
+    <string name="add_home">Add to Home</string>
+    <string name="add_quick_access">Add to Quick Access</string>
+    <string name="remove_quick_access">Remove from Quick Access</string>
+    <string name="remove_home">Remove from Home</string>
+    <string name="move_home">Move shortcut</string>
+    <string name="app_info">App info</string>
+    <string name="choose_home">Choose default Home app</string>
+    <string name="wallpaper">Change wallpaper</string>
+    <string name="home_options">Home options</string>
+    <string name="cancel">Cancel</string>
+    <string name="home_full">Home is full</string>
+    <string name="added_home">Added to Home</string>
+    <string name="already_home">Already on Home</string>
+    <string name="app_unavailable">This app is no longer available</string>
+    <string name="action_unavailable">This action isn’t available on this device</string>
+    <string name="move_hint">Tap an empty position, or press Back to cancel</string>
+    <string name="position_taken">That position already has an app</string>
+    <string name="empty_position">Empty position, row %1$d, column %2$d</string>
+</resources>

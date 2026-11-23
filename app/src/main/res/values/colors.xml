@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="drawer_surface">#EBFAFAFA</color>
+    <color name="drawer_foreground">#202020</color>
+    <color name="drawer_secondary">#707070</color>
+    <color name="drawer_divider">#30000000</color>
+    <color name="accent">#555555</color>
+</resources>
